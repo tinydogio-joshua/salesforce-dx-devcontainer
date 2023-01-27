@@ -10,5 +10,5 @@ This is a template for creating a Salesforce DX project devcontainer. It's only 
 - Node 18.13.0
 - Salesforce CLI
 - Salesforce DX CLI
-- Salesforce Extension Pack (Expanded) for VSCode
+- [Salesforce Extension Pack (Expanded) for VSCode](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded)
 - TypeScript 4.9.4
